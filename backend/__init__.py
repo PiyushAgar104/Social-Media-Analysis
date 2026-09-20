@@ -1,0 +1,1 @@
+"""TrendTrace AI backend package."""
